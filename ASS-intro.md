@@ -35,11 +35,12 @@ PS：用时间模式也OK，只是做特效时帧模式更准一点
 ## 1.导入文稿
 翻译完成后的稿件一般为txt文档，或者Word文档，直接打开文件【Ctrl+A】全选【Ctrl+C】复制【Ctrl+V】丢进去，即可生成一行一行的没有时间的轴（如图左下显示，开始时间0，结束时间-1）
 PS：底部多出来的空行可以删去，Aegisub导入时默认导入到当前行的上方，复制粘贴也是一样
-
+![This is an image](https://github.com/Akte616/yururu.github.io/blob/intro/intro-11.png)
 这个时候可能样式显示为Default，可以全选改为默认
+![This is an image](https://github.com/Akte616/yururu.github.io/blob/intro/intro-12.png)
 
 对于特效样式，顶部【字幕】→【选择多行】，我一般匹配【，在文本中搜索包含的行就可以全选，改为特效样式
-
+![This is an image](https://github.com/Akte616/yururu.github.io/blob/intro/intro-13.png)![This is an image](https://github.com/Akte616/yururu.github.io/blob/intro/intro-14.png)
 PS：【特效】样式只是一个example，可以之后用特效代码随意调整，统一样式为【特效】只是为了和【默认】样式区分开，以便于给【默认】样式批量添加边框模糊
 
 ## 2.开始打轴
