@@ -35,7 +35,7 @@ PS：用时间模式也OK，只是做特效时帧模式更准一点
 ## 1.导入文稿
 翻译完成后的稿件一般为txt文档，或者Word文档，直接打开文件【Ctrl+A】全选【Ctrl+C】复制【Ctrl+V】丢进去，即可生成一行一行的没有时间的轴（如图左下显示，开始时间0，结束时间-1）
 PS：底部多出来的空行可以删去，Aegisub导入时默认导入到当前行的上方，复制粘贴也是一样
-![This is an image](https://github.com/Akte616/yururu.github.io/blob/intro/intro-11.png)
+![This is an image](https://github.com/Akte616/yururu.github.io/blob/intro/intro-11.gif)
 这个时候可能样式显示为Default，可以全选改为默认
 ![This is an image](https://github.com/Akte616/yururu.github.io/blob/intro/intro-12.png)
 
