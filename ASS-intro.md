@@ -1,6 +1,7 @@
 # ASS教程
 ## 0.开始之前
 Aegisub汉化版下载地址 https://aegi.vmoe.info/downloads/ 一般用32位的就好
+![This is an image](https://github.com/Akte616/yururu.github.io/blob/main/image.png)
 
 暂时无法在文档外展示此内容
 （按汉化组的说法，即使使用64位的Windows系统，也不推荐使用64位版本的Aegisub。因为它不支持Avisynth且运行速度更慢，甚至有时还会出现32位版本中没有的bug）
