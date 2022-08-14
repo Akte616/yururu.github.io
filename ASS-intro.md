@@ -20,7 +20,7 @@ Aegisub汉化版下载地址 https://aegi.vmoe.info/downloads/ 一般用32位的
 PS：用时间模式也OK，只是做特效时帧模式更准一点
 ![This is an image](https://github.com/Akte616/yururu.github.io/blob/intro/intro-04.png)
 **字幕组有特定的格式，需要从样轴中导入**
-- 目前的样轴和字体文件（如有更新以群文件为准）
+- 目前的[样轴](https://github.com/Akte616/yururu.github.io/blob/intro/%E7%8C%AB%E8%AF%AD%E7%A0%94%E7%A9%B6%E6%89%80-%E6%A0%B7%E8%BD%B4-V2.1.ass)和[字体文件](https://github.com/Akte616/yururu.github.io/blob/intro/SourceHanSerifSC-Bold.otf)（如有更新以群文件为准）
 
 暂时无法在文档外展示此内容
 暂时无法在文档外展示此内容
