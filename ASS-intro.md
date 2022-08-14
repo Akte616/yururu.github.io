@@ -40,7 +40,9 @@ PS：底部多出来的空行可以删去，Aegisub导入时默认导入到当�
 ![This is an image](https://github.com/Akte616/yururu.github.io/blob/intro/intro-12.png)
 
 对于特效样式，顶部【字幕】→【选择多行】，我一般匹配【，在文本中搜索包含的行就可以全选，改为特效样式
-![This is an image](https://github.com/Akte616/yururu.github.io/blob/intro/intro-13.png)![This is an image](https://github.com/Akte616/yururu.github.io/blob/intro/intro-14.png)
+<center class="half">
+    <img src="https://github.com/Akte616/yururu.github.io/blob/intro/intro-13.png" width="300"/><img src="https://github.com/Akte616/yururu.github.io/blob/intro/intro-14.png" width="300"/>
+</center>
 PS：【特效】样式只是一个example，可以之后用特效代码随意调整，统一样式为【特效】只是为了和【默认】样式区分开，以便于给【默认】样式批量添加边框模糊
 
 ## 2.开始打轴
