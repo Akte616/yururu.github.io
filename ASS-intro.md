@@ -6,7 +6,9 @@ Aegisub汉化版下载地址 https://aegi.vmoe.info/downloads/ 一般用32位的
 暂时无法在文档外展示此内容
 （按汉化组的说法，即使使用64位的Windows系统，也不推荐使用64位版本的Aegisub。因为它不支持Avisynth且运行速度更慢，甚至有时还会出现32位版本中没有的bug）
 安装时可选中文
+
 ![This is an image](https://github.com/Akte616/yururu.github.io/blob/intro/intro-02.png)
+
 首先导入视频，Aegisub顶部【视频】→【打开视频】
 光标放在画面部分，滚动鼠标滚轮即可调整预览画面大小
 - 向上滚动：放大画面
@@ -17,8 +19,9 @@ Aegisub汉化版下载地址 https://aegi.vmoe.info/downloads/ 一般用32位的
 - 向前一帧：键盘方向键【左键】or 鼠标光标在视频进度条上→滚轮向上
 PS：用时间模式也OK，只是做特效时帧模式更准一点
 ![This is an image](https://github.com/Akte616/yururu.github.io/blob/intro/intro-04.png)
-字幕组有特定的格式，需要从样轴中导入
+**字幕组有特定的格式，需要从样轴中导入**
 - 目前的样轴和字体文件（如有更新以群文件为准）
+
 暂时无法在文档外展示此内容
 暂时无法在文档外展示此内容
 同样是顶部，【字幕】→【样式管理器】→【从脚本中导入】，选择样轴文件，根据需要导入
